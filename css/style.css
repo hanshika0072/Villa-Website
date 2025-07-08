@@ -536,9 +536,7 @@ margin-bottom: 22px;
 .card-img img {
     width: 100%;
 }
-.card-content{
 
-}
 .card-content ul {
 display: flex;
 justify-content: space-between;
@@ -555,11 +553,9 @@ margin-top: 13px;
 .card-content ul li {
     background-color: #ff450042;
     padding: 6px;
-        border-radius: 5px
+    border-radius: 5px
 }
-.paragraph-5{
-    
-}
+
 .paragraph-5 h4 {
     font-size: 20px;
     margin-top: 15px;
@@ -683,9 +679,7 @@ margin-top: 20px;
 .left-map-iframe iframe {
     border-radius: 11px;
 }
-.icon-content{
 
-}
 .icon-content h2{
     font-size: 20px;
     font-weight: 800;
